@@ -20,7 +20,7 @@
     "ios": {
       "supportsTablet": true,
       "bitcode": false,
-      "bundleIdentifier": "com.mzdybel.expovideosharing"
+      "bundleIdentifier": "com.prawee.expoPhone"
     },
     "android": {
       "adaptiveIcon": {
@@ -37,7 +37,7 @@
         "android.permission.SYSTEM_ALERT_WINDOW",
         "android.permission.WAKE_LOCK"
       ],
-      "package": "com.mzdybel.expovideosharing"
+      "package": "com.com.prawee.expoPhone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
